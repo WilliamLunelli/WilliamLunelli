@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning more about node.js libraries and frameworks. <br>🎯 Goals: Be a better developer <br> </p>
+<p align="left">✨ Creating solutions since 2023 <br>📚 I'm currently learning more about node.js libraries and frameworks. <br>🎯 Goals: Be a better developer <br> </p>
 
 ###
 
